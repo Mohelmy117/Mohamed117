@@ -6,19 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohelmy117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=true&order=2&custom_title=Most%20Used%20Languages%20" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mohelmy117&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="90" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohelmy117.Mohelmy117&"  />
-</div>
-
-###
-
 <h2 align="left">languages</h2>
 
 ###
@@ -89,14 +76,20 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohelmy117.Mohelmy117&"  />
+</div>
+
+###
+
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"  />
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"  />
 
 ###
